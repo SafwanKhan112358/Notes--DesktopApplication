@@ -1,5 +1,5 @@
 # Notes-DesktopApplication
-Notes Desktop Application, made using Python a GUI Framework, Tkinter
+Notes Desktop Application, made using Python and GUI Framework, Tkinter
 
 <img width="201" alt="Notes Application - V1" src="https://user-images.githubusercontent.com/62441768/179432526-ca35cef1-7804-48a2-949c-e1397597f1a8.png">
 
